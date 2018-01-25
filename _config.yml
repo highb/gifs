@@ -1,3 +1,4 @@
 markdown:       kramdown
 markdown_ext:   markdown,mkd,mkdn,md
 exclude:        [ "script" ]
+baseurl:        https://gifs.netlify.com
